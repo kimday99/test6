@@ -9,13 +9,7 @@ namespace test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //dfaaaaaaaaaa a
-
-            // 추가 되나??
-            //zzzzzzzzzzzzzzzzzzz
-            //zzz
-            //...
-            Console.Write(" ");
+        //change?
 
         }
     }
